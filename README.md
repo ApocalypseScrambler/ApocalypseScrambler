@@ -42,7 +42,7 @@ I have pending in my agenda to learn to play the piano :musical_keyboard:.
 ## 🛠 Skills
 [![JavaScript](https://img.shields.io/badge/-JavaScript%20-lightgrey)](https://www.javascript.com/)
 [![Html5](https://img.shields.io/badge/-Html5-orange)](https://es.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-blue)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/-CSS3-blue)](https://developer.mozilla.org/es/docs/Web/CSS) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet)](https://getbootstrap.com/)
 [![SASS](https://img.shields.io/badge/-SASS-ff69b4)](https://sass-lang.com/)
 [![Node.js](https://img.shields.io/badge/-Node.Js-success)](https://nodejs.org/es/)
